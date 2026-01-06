@@ -34,5 +34,8 @@ The script performs the following transformations:
 
    ```bash
    git clone https://github.com/Saidhanekula31/netflix-data-transform.git
-   cd netflix-data-transform# netflix-data-transform
+   cd netflix-data-transform
+   ```
+
+Test change: small note added to trigger a PR.
 
